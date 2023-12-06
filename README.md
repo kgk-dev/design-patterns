@@ -12,7 +12,7 @@
 > Strive for loosely coupled designs
 between objects that interact.
 
-> 
+> Classes should be open for extensions, but closed for modification
 
 ---
 Reference-Head First Design Patterns
