@@ -14,5 +14,8 @@ between objects that interact.
 
 > Classes should be open for extensions, but closed for modification
 
+> Depend upon abstractions. Do not depend upon concrete classes.
+
+ 
 ---
 Reference-Head First Design Patterns
