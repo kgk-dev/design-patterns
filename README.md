@@ -16,6 +16,6 @@ between objects that interact.
 
 > Depend upon abstractions. Do not depend upon concrete classes.
 
- 
+> Principle of Least Knowledge: talk only to your immediate firends. 
 ---
 Reference-Head First Design Patterns
